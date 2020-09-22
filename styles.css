@@ -1,0 +1,64 @@
+body {
+  background-color: thistle;
+  color:ghostwhite;
+  font: Times, serif;
+}
+h1 {
+  color:paleturquoise;
+  font:Arial;
+ font-style:italic;
+}
+nav ul {
+  background-color: lightblue;
+  border-style: dotted;
+  border-color: Red;
+  border-width: 4px;
+  padding: 10px;
+  border-radius: 10px;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 130px;
+  margin-left: 130px;
+  color: PapayaWhip;
+}
+nav ul li a {
+  text-decoration: none;
+  color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
